@@ -1,2 +1,3 @@
 # Quiz-game
-My first quiz game code
+My first quiz game code in C.
+
