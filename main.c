@@ -32,7 +32,7 @@ int main()
    
     else if (choose == 'n')
     {
-      printf("See your again\n");
+      printf("See you again\n");
       return 0;
     }
     else
